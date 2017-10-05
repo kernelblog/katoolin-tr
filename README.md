@@ -1,47 +1,21 @@
-![katoolin](https://cloud.githubusercontent.com/assets/8742190/9415562/83397aae-4840-11e5-8f72-28dfffcc70a9.png)
-# katoolin
-Automatically install all Kali linux tools
+![katoolin](https://i.hizliresim.com/Gy2jrb.png)
+# Katoolin-tr
+Katoolin Toolunun Türkçe'ye Çevrilmiş Halidir.
 
 # Features
-- Add Kali linux repositories
-- Remove kali linux repositories
-- Install Kali linux tools
+- Yeni Kali Linux Repolarını Ekleyebilirsiniz
+- Kali Linux Repolarını Kaldırabilirsiniz
+- Kali Linux Toollarını Silebilirsiniz
 
-# Requirements
-- Python 2.7
-- An operating system (tested on Ubuntu)
-
-# Installation
+# Kurulum
 - sudo su
 - git clone https://github.com/LionSec/katoolin.git && cp katoolin/katoolin.py /usr/bin/katoolin
 - chmod +x /usr/bin/katoolin
 - sudo katoolin 
 
-# Video
-https://www.youtube.com/watch?v=8VxCWVoZEEE
-
-# Usage
-- Typing the number of a tool will install it
-- Typing 0 will install all Kali Linux tools
-- back : Go back
-- gohome : Go to the main menu
-- By installing armitage , you will install metasploit
-
-# Warning
-Before updating your system , please remove all Kali-linux repositories to avoid any kind of problem .
-
-# I have some questions!
-
-Please visit https://github.com/LionSec/katoolin/issues
-
-# Donations
-- Paypal : https://www.paypal.me/lionsec
-- skrill : informatica98es@gmail.com
-
-
-# Contact
-- Website : http://lionsec.net
-- Youtube : https://youtube.com/inf98es
-- Facebook : https://facebook.com/in98
-- Twitter: @LionSec1
-- Email : ledonman@gmail.com
+# İletişim
+- Website : http://kernelblog.org
+- Youtube : https://www.youtube.com/channel/UC_H-M4Rb-ZCwhg8sXeMshYg
+- Facebook : https://www.facebook.com/KernelBlog-176204476259994/
+- Twitter: https://twitter.com/kernel_blog
+- Email : kernelblog1@gmail.com
