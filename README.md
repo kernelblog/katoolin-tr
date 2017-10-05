@@ -2,7 +2,7 @@
 # Katoolin-TR
 Katoolin Toolunun Türkçe'ye Çevrilmiş Halidir.
 
-# Features
+# Özellikler
 - Yeni Kali Linux Repolarını Ekleyebilirsiniz
 - Kali Linux Repolarını Kaldırabilirsiniz
 - Kali Linux Toollarını Yükleyebilirsiniz
