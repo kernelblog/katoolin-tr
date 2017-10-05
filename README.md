@@ -1,5 +1,5 @@
 ![katoolin](https://i.hizliresim.com/Gy2jrb.png)
-# Katoolin-tr
+# Katoolin-TR
 Katoolin Toolunun Türkçe'ye Çevrilmiş Halidir.
 
 # Features
