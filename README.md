@@ -5,7 +5,7 @@ Katoolin Toolunun Türkçe'ye Çevrilmiş Halidir.
 # Features
 - Yeni Kali Linux Repolarını Ekleyebilirsiniz
 - Kali Linux Repolarını Kaldırabilirsiniz
-- Kali Linux Toollarını Silebilirsiniz
+- Kali Linux Toollarını Yükleyebilirsiniz
 
 # Kurulum
 - sudo su
